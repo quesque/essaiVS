@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Cinema
 {
-    class Film
+    public class Film
     {
         private String nom;
         /// <summary>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{1061CC4B-96D3-4568-929A-5C173880325A}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "AnalyseProjetCinema", "AnalyseProjetCinema\AnalyseProjetCinema.modelproj", "{93B46900-9656-40C8-9011-94AB3ADE9613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1061CC4B-96D3-4568-929A-5C173880325A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1061CC4B-96D3-4568-929A-5C173880325A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1061CC4B-96D3-4568-929A-5C173880325A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1061CC4B-96D3-4568-929A-5C173880325A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B46900-9656-40C8-9011-94AB3ADE9613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B46900-9656-40C8-9011-94AB3ADE9613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B46900-9656-40C8-9011-94AB3ADE9613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B46900-9656-40C8-9011-94AB3ADE9613}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

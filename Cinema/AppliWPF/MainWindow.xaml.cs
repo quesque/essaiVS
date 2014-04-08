@@ -37,7 +37,7 @@ namespace AppliWPF
         private void init_list() { 
             leComplexe.Add(new SalleBis("non stop","nonstop.jpg",250,8.9));
             leComplexe.Add(new SalleBis("de toutes nos forces", "deToutesNosForces.jpg", 200, 6.9));
-        
+            leComplexe.Add(new SalleBis("captain america", "deToutesNosForces.jpg", 200, 6.9));
         }
         private void rempli_list() {
 

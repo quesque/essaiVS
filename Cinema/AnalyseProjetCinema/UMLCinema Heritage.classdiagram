@@ -40,6 +40,9 @@
           </property>
           <property Id="8c2c1031-57d0-43b6-a3c2-cef519be45c0" name="pourcentageReduction" visibility="Private" isLeaf="false" isStatic="true" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
             <elementDefinition Id="ef6218c0-09e5-4c15-9d59-147616100dcf" />
+            <type_NamedElement>
+              <referencedTypeMoniker Id="2d1b5ba0-80c8-4280-995b-9fc0976cfddd" LastKnownName="Integer" />
+            </type_NamedElement>
             <defaultValue>
               <literalString Id="1a878d7d-1716-4bf6-983b-d4d0c5270acd" name="DefaultValue" value="80">
                 <elementDefinition Id="bfa54ff2-b456-4bbd-b43d-bf3804b46f95" />
@@ -339,6 +342,11 @@
     <packageHasNamedElement>
       <referencedType Id="e1ac8c4e-ab50-425b-a2a7-73a34648fc92" name="UnlimitedNatural" isAbstract="false" isLeaf="false" cachedFullName="UnlimitedNatural">
         <elementDefinition Id="3ab42e7d-4969-445a-b209-471f5cb8209c" />
+      </referencedType>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <referencedType Id="2d1b5ba0-80c8-4280-995b-9fc0976cfddd" name="Integer" isAbstract="false" isLeaf="false" cachedFullName="Integer">
+        <elementDefinition Id="220a3521-e091-4221-bae9-3ef9018e845c" />
       </referencedType>
     </packageHasNamedElement>
   </packagedElements>

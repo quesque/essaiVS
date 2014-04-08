@@ -122,6 +122,12 @@
             isDerivedUnion="false"
             aggregation="None"
             isComposite="false">
+            <type_NamedElement>
+              <primitiveTypeMoniker
+                Id="220a3521-e091-4221-bae9-3ef9018e845c"
+                LastKnownName="Integer"
+                LastKnownLocation="AnalyseProjetCinema.uml" />
+            </type_NamedElement>
             <defaultValue>
               <literalString
                 Id="bfa54ff2-b456-4bbd-b43d-bf3804b46f95"
